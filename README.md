@@ -10,7 +10,7 @@ The goal of this project is to demonstrate how structured weather data, statisti
 
 The project is composed of three main components:
 
-1. ** AU Solar data preparation** (from raster-based solar datasets)
+1. **AU Solar data preparation** (from raster-based solar datasets)
 2. **Predictive modeling** using weather regressors
 3. **An LLM-powered agent** that answers solar output questions in natural language
 
